@@ -1,22 +1,42 @@
 {
-  "motivate": [
-    "You’ve got this 💪 Small steps today lead to big results.",
-    "Even a short effort counts. Let’s keep the momentum going."
-  ],
-  "remind": [
-    "Just a quick reminder to stay on track today 😊",
-    "Don’t forget your goal—you’re closer than you think."
-  ],
-  "educate": [
-    "This habit helps improve your long-term health and energy levels.",
-    "Consistency here supports better recovery and performance."
-  ],
-  "congratulate": [
-    "Great job! 🎉 You’re making real progress.",
-    "Well done! Keep building on this success."
-  ],
-  "warn": [
-    "You’ve been a bit off track lately—let’s refocus gently.",
-    "Missing this often can slow progress. Let’s try again today."
-  ]
+  "intent_responses": {
+    "motivate": [
+      "You’ve got this 💪 Small steps today lead to big results.",
+      "Even a short effort counts. Let’s keep the momentum going."
+    ],
+    "remind": [
+      "Just a quick reminder to stay on track today 😊",
+      "Don’t forget your goal—you’re closer than you think."
+    ],
+    "educate": [
+      "This habit helps improve your long-term health and energy levels.",
+      "Consistency here supports better recovery and performance."
+    ],
+    "congratulate": [
+      "Great job! 🎉 You’re making real progress.",
+      "Well done! Keep building on this success."
+    ],
+    "warn": [
+      "You’ve been a bit off track lately—let’s refocus gently.",
+      "Missing this often can slow progress. Let’s try again today."
+    ]
+  },
+
+  "personality_responses": {
+    "supportive": [
+      "It's okay to have off days. Let's take this one step at a time 💙"
+    ],
+    "motivational": [
+      "You're capable of more than you think. Let’s push a little today 🔥"
+    ],
+    "strict": [
+      "You’ve been consistent. No excuses today—let’s execute."
+    ],
+    "celebratory": [
+      "Outstanding! 🎉 This is the result of your discipline."
+    ],
+    "educational": [
+      "Here’s why this matters for your health and long-term progress."
+    ]
+  }
 }
